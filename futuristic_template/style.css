@@ -1,0 +1,31 @@
+body {
+    background-color: #141A26;
+    background-image: url(triangle.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    border-color: whitesmoke;
+    font-family: 'Rubik', sans-serif;
+    color: #60C4FF;
+}
+
+.main_menu {
+    float: right;
+    padding: 10px;
+}
+
+.main_menu ul {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    padding-inline-start: 0px;
+    padding-inline-end: 40px;
+}
+
+.main_menu ul li {
+    display: inline-block;
+    padding: 15px 15px;
+    cursor: pointer;
+}
+
+.main_menu ul li:hover {
+    border-bottom: 2px solid #60C4FF;
+}
