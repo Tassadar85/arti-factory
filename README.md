@@ -1,3 +1,2 @@
-# t-studio
-My first repository
-Чутка о себе)
+# arti-factory
+Репозиторий для разных собственных проэктов
