@@ -4,10 +4,14 @@ body {
     color: #5EE8FF;
 }
 
+.container_top {
+    width: 100%;
+    border-bottom: 1px solid #5ee8ff;
+}
+
 .main_menu {
     float: right;
     padding: 10px;
-    border-bottom: 1px solid #5ee8ff;
 }
 
 .main_menu ul {
