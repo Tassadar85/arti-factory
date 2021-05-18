@@ -1,0 +1,25 @@
+body {
+    background-color: #091722;
+    font-family: 'Rubik', sans-serif;
+    color: #5EE8FF;
+}
+
+.main_menu {
+    float: right;
+    padding: 10px;
+}
+
+.main_menu ul {
+    margin: 0px;
+    padding-right: 40px;
+}
+
+.main_menu ul li {
+    display: inline-block;
+    padding: 15px 15px;
+    cursor: pointer;
+}
+
+.main_menu ul li:hover {
+    border-bottom: 1px solid #5EE8FF;
+}
